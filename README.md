@@ -1,21 +1,22 @@
 # DailyBestPaper
 记录每日精选的论文，当然也不是每日啦，就当作一个记录的地方吧~~~
-- 每周至少3天刷arxiv订阅邮件
-- 将感兴趣或不错的论文记录下来
-- 精读过的文章标`*` 
+- 每周至少3天刷arxiv订阅邮件！
+- 将感兴趣或不错的论文记录下来！
+- 精读过的文章标记"⭐"！
+- 督促自己每天都有进步！go！go！加油！
 
-### 2022-02-06
-[PromptSource: An Integrated Development Environment and Repository for Natural Language Prompts](https://arxiv.org/pdf/2202.01279.pdf)
+#### 2022-02-06
+[PromptSource: An Integrated Development Environment and Repository for Natural Language Prompts](https://arxiv.org/pdf/2202.01279.pdf)⭐
 
 [mSLAM: Massively multilingual joint pre-training for speech and text](https://arxiv.org/abs/2202.01374)
 
 
-### 2022-02-04
+#### 2022-02-04
 [Pre-Trained Language Transformers are Universal Image Classifiers](https://arxiv.org/abs/2201.10182)
 
 [Improving the fusion of acoustic and text representations in RNN-T](https://arxiv.org/abs/2201.10240)
 
-[A Survey on Retrieval-Augmented Text Generation](https://arxiv.org/pdf/2202.01110.pdf)
+[A Survey on Retrieval-Augmented Text Generation](https://arxiv.org/pdf/2202.01110.pdf)⭐
 
 [Natural Language to Code Using Transformers](https://arxiv.org/abs/2202.00367)
 
@@ -33,20 +34,20 @@
 
 [PCL: Peer-Contrastive Learning with Diverse Augmentations for Unsupervised Sentence Embeddings](https://arxiv.org/pdf/2201.12093.pdf)
 
-[Protum: A New Method For Prompt Tuning Based on "[MASK]"](https://arxiv.org/pdf/2201.12109.pdf)
+[Protum: A New Method For Prompt Tuning Based on "[MASK]"](https://arxiv.org/pdf/2201.12109.pdf)⭐
 
 [DiscoScore: Evaluating Text Generation with BERT and Discourse Coherence](https://arxiv.org/pdf/2201.11176.pdf)
 
-### 2022-02-02
+#### 2022-02-02
 [Dual Contrastive Learning: Text Classification via Label-Aware Data Augmentation](https://arxiv.org/pdf/2201.08702.pdf)
 
 [Context-Tuning: Learning Contextualized Prompts for Natural Language Generation](https://arxiv.org/pdf/2201.08670.pdf)
 
 [Black-box Prompt Learning for Pre-trained Language Models](https://arxiv.org/pdf/2201.08531.pdf)
 
-[SciBERTSUM: Extractive Summarization for Scientific Documents](https://arxiv.org/pdf/2201.08495.pdf)
+[SciBERTSUM: Extractive Summarization for Scientific Documents](https://arxiv.org/pdf/2201.08495.pdf)⭐
 
-[ZeroPrompt: Scaling Prompt-Based Pretraining to 1,000 Tasks Improves Zero-Shot Generalization](https://arxiv.org/pdf/2201.06910.pdf)
+[ZeroPrompt: Scaling Prompt-Based Pretraining to 1,000 Tasks Improves Zero-Shot Generalization](https://arxiv.org/pdf/2201.06910.pdf)⭐
 
 [CLIP-TD: CLIP Targeted Distillation for Vision-Language Tasks](https://arxiv.org/pdf/2201.05729.pdf)
 
@@ -54,13 +55,13 @@
 
 [Improving Biomedical Information Retrieval with Neural Retrievers](https://arxiv.org/pdf/2201.07745.pdf)
 
-[PromptBERT: Improving BERT Sentence Embeddings with Prompts](https://arxiv.org/pdf/2201.04337.pdf)
+[PromptBERT: Improving BERT Sentence Embeddings with Prompts](https://arxiv.org/pdf/2201.04337.pdf)⭐
 
 [Ensemble Transformer for Efficient and Accurate Ranking Tasks: an Application to Question Answering Systems](https://arxiv.org/pdf/2201.05767.pdf)
 
 [The Dark Side of the Language: Pre-trained Transformers in the DarkNet](https://arxiv.org/pdf/2201.05613.pdf)
 
-[AugLy: Data Augmentations for Robustness](https://arxiv.org/pdf/2201.06494.pdf)
+[AugLy: Data Augmentations for Robustness](https://arxiv.org/pdf/2201.06494.pdf)⭐
 
 [Eliciting Knowledge from Pretrained Language Models for Prototypical Prompt Verbalizer](https://arxiv.org/pdf/2201.05411.pdf)
 
