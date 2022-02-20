@@ -5,6 +5,22 @@
 - 精读过的文章标记"⭐"！
 - 督促自己每天都有进步！go！go！加油！
 
+#### 2022-02-09
+[LST: Lexicon-Guided Self-Training for Few-Shot Text Classification](https://arxiv.org/pdf/2202.02566.pdf)
+
+[Comparison and Combination of Sentence Embeddings Derived from Different Supervision Signals](https://arxiv.org/pdf/2202.02990.pdf)
+
+[To Tune or Not To Tune? Zero-shot Models for Legal Case Entailment](https://arxiv.org/pdf/2202.03120.pdf)
+
+
+#### 2022-02-08
+[Zero-Shot Aspect-Based Sentiment Analysis](https://arxiv.org/pdf/2202.01924.pdf)
+
+[A Benchmark Corpus for the Detection of Automatically Generated Text in Academic Publications](https://arxiv.org/pdf/2202.02013.pdf)
+
+[From Discrimination to Generation: Knowledge Graph Completion with Generative Transformer](https://arxiv.org/pdf/2202.02113.pdf)
+
+
 #### 2022-02-06
 [PromptSource: An Integrated Development Environment and Repository for Natural Language Prompts](https://arxiv.org/pdf/2202.01279.pdf)⭐
 
@@ -37,6 +53,7 @@
 [Protum: A New Method For Prompt Tuning Based on "[MASK]"](https://arxiv.org/pdf/2201.12109.pdf)⭐
 
 [DiscoScore: Evaluating Text Generation with BERT and Discourse Coherence](https://arxiv.org/pdf/2201.11176.pdf)
+
 
 #### 2022-02-02
 [Dual Contrastive Learning: Text Classification via Label-Aware Data Augmentation](https://arxiv.org/pdf/2201.08702.pdf)
