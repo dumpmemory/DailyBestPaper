@@ -10,19 +10,19 @@ sigir2022论文
 ##### 检索排序相关
 RankFlow: Joint Optimization of Multi-Stage Cascade Ranking Systems as Flows
 
-* Incorporating Explicit Knowledge in Pre-trained Language Models for Passage Re-ranking
+Incorporating Explicit Knowledge in Pre-trained Language Models for Passage Re-ranking
 
 IR Evaluation and Learning in the Presence of Forbidden Documents
 
 Incorporating Retrieval Information into the Truncation of Ranking Lists in the Legal Domain
 
-* Webformer: Pre-training with Web Pages for Information Retrieval
+Webformer: Pre-training with Web Pages for Information Retrieval
 
 Automatic Expert Selection for Multi-Scenario and Multi-Task Search
 
-* CharacterBERT and Self-Teaching for Improving the Robustness of Dense Retrievers on Queries with Typos
+CharacterBERT and Self-Teaching for Improving the Robustness of Dense Retrievers on Queries with Typos
 
-* H-ERNIE: A Hierarchical Multi-Granularity Pre-Trained Language Model for Chinese Search Engine
+H-ERNIE: A Hierarchical Multi-Granularity Pre-Trained Language Model for Chinese Search Engine
 
 Interpreting Patient Descriptions using Distantly Supervised Similar Case Retrieval
 
@@ -30,11 +30,11 @@ Axiomatically Regularized Pre-training for Ad hoc Search
 
 Entity-aware Transformers for Entity Search
 
-* Pre-train a Discriminative Text Encoder for Dense Retrieval via Contrastive Span Prediction
+Pre-train a Discriminative Text Encoder for Dense Retrieval via Contrastive Span Prediction
 
 Faster Learned Sparse Retrieval with Guided Traversal
 
-* P^3 Ranker: Mitigating the Gaps between Pre-training and Ranking Fine-tuning with Prompt-based Learning and Pre-finetuning
+P^3 Ranker: Mitigating the Gaps between Pre-training and Ranking Fine-tuning with Prompt-based Learning and Pre-finetuning
 
 Curriculum Learning for Dense Retrieval Distillation
 
@@ -44,17 +44,17 @@ From Cluster Ranking to Document Ranking
 
 How does Feedback Signal Quality Impact Effectiveness of Pseudo Relevance Feedback for Passage Retrieval
 
-* Improving Contrastive Learning of Sentence Embeddings with Case-Augmented Positives and Retrieved Negatives
+Improving Contrastive Learning of Sentence Embeddings with Case-Augmented Positives and Retrieved Negatives
 
 GERE: Generative Evidence Retrieval for Fact Verification
 
 Learning to Rank Knowledge Sub-Graph Nodes for Entity Retrieval
 
-* BERT-based Dense Intra-ranking and Contextualized Late Interaction via Multi-task Learning for Long Document Retrieval
+BERT-based Dense Intra-ranking and Contextualized Late Interaction via Multi-task Learning for Long Document Retrieval
 
 From Distillation to Hard Negative Sampling: Making Sparse Neural IR Models More Effective
 
-* Long Document Re-ranking with Modular Re-ranker
+Long Document Re-ranking with Modular Re-ranker
 
 Unsupervised Dataset Generation for Information Retrieval
 
@@ -70,7 +70,7 @@ Curriculum Contrastive Context Denoising for Few-shot Conversational Dense Retri
 
 Recognizing Medical Search Query Intent by Few-shot Learning
 
-* Zero-shot Query Contextualization for Conversational Search
+Zero-shot Query Contextualization for Conversational Search
 
 Relation-Guided Few-Shot Relational Triple Extraction
 
@@ -99,7 +99,7 @@ Image-Text Retrieval via Contrastive Learning with Auxiliary Generative Features
 Cross-Probe BERT for Fast Cross-Modal Search
 ##### 生成
 
-* Mutual Disentanglement Learning for Joint Fine-Grained Sentiment Classification and Controllable Text Generation
+Mutual Disentanglement Learning for Joint Fine-Grained Sentiment Classification and Controllable Text Generation
 
 Target-aware Abstractive Related Work Generation with Contrastive Learning
 
@@ -112,11 +112,11 @@ Entity-Conditioned Question Generation for Robust Attention Distribution in Neur
 ##### 摘要
 ADPL: Adversarial Prompt-based Domain Adaptation for Dialogue Summarization with Knowledge Disentanglement
 
-* On Extractive Summarization for Profile-centric Neural Expert Search in Academia
+On Extractive Summarization for Profile-centric Neural Expert Search in Academia
 
 QSG Transformer: Transformer with Query-Attentive Semantic Graph for Query-Focused Summarization
 
-* MuchSUM: Multi-channel Graph Neural Network for Extractive Summarization
+MuchSUM: Multi-channel Graph Neural Network for Extractive Summarization
 
 Lightweight Meta-Learning for Low-Resource Abstractive Summarization
 
@@ -131,7 +131,7 @@ Unsupervised Belief Representation Learning with Information-Theoretic Variation
 
 CRET: Cross-Modal Retrieval Transformer for Efficient Text-Video Retrieval
 
-* BERT-ER: Query-Specific BERT Entity Representations for Entity Ranking
+BERT-ER: Query-Specific BERT Entity Representations for Entity Ranking
 
 Adaptable Text Matching via Meta-Weight Regulator
 
@@ -140,7 +140,7 @@ Re-weighting Negative Samples for Model-Agnostic Matching
 Learned Token Pruning in Contextualized Late Interaction over BERT (ColBERT)
 ##### 问答
 
-* PTAU: Prompt Tuning for Attributing Unanswerable Questions
+PTAU: Prompt Tuning for Attributing Unanswerable Questions
 
 DGQAN: Dual Graph Question-Answer Attention Networks for Answer Selection
 
@@ -150,7 +150,7 @@ QUASER: Question Answering with Scalable Extractive Rationalization
 
 Detecting Frozen Phrases in Open-Domain Question Answering
 ##### 其他
-* Logiformer: A Two-Branch Graph Transformer Network for Interpretable Logical Reasoning
+Logiformer: A Two-Branch Graph Transformer Network for Interpretable Logical Reasoning
 
 LoL: A Comparative Regularization Loss over Query Reformulation Losses for Pseudo-Relevance Feedback
 
@@ -158,7 +158,7 @@ A Dual-Expert Framework for Event Argument Extraction
 
 Aspect Feature Distillation and Enhancement Network for Aspect-based Sentiment Analysis
 
-* IAOTP: An Interactive End-to-End Solution for Aspect-Opinion Term Pairs Extraction
+IAOTP: An Interactive End-to-End Solution for Aspect-Opinion Term Pairs Extraction
 
 Relation Extraction as Open-book Examination: Retrieval-enhanced Prompt Tuning
 
@@ -174,9 +174,9 @@ End-to-end Distantly Supervised Information Extraction with Retrieval Augmentati
 ##### 资源
 A Dataset for Sentence Retrieval for Open-Ended Dialogues
 
-* ReMeDi: Resources for Multi-domain, Multi-service, Medical Dialogues
+ReMeDi: Resources for Multi-domain, Multi-service, Medical Dialogues
 
-* Multi-CPR: A Multi Domain Chinese Dataset for Passage Retrieva
+Multi-CPR: A Multi Domain Chinese Dataset for Passage Retrieva
 
 #### 2022-02-09
 [LST: Lexicon-Guided Self-Training for Few-Shot Text Classification](https://arxiv.org/pdf/2202.02566.pdf)
