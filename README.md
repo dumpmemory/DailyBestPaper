@@ -5,6 +5,53 @@
 - 精读过的文章标记"⭐"！
 - 督促自己每天都有进步！go！go！加油！
 
+#### 2022-05-10
+NAACL2022 Prompt相关论文
+
+Template-free Prompt Tuning for Few-shot NER
+
+IDPG: An Instance-Dependent Prompt Generation Method
+
+Automatic Multi-Label Prompting: Simple and Interpretable Few-Shot Classification
+
+ProQA: Structural Prompt-based Pre-training for Unified Question Answering
+
+On Transferability of Prompt Tuning for Natural Language Processing
+
+PROMPT WAYWARDNESS: The Curious Case of Discretized Interpretation of Continuous Prompts
+
+Learning to Transfer Prompts for Text Generation
+
+Learning To Retrieve Prompts for In-Context Learning
+
+Do Prompt-Based Models Really Understand the Meaning of Their Prompts?
+
+Go Back in Time: Generating Flashbacks in Stories with Event Plots and Temporal Prompts 
+
+Probing via Prompting and Pruning
+
+Contrastive Learning for Prompt-based Few-shot Language Learners
+
+Using Natural Sentence Prompts for Understanding Biases in Language Models
+
+Zero-Shot Event Detection Based on Ordered Contrastive Learning and Prompt-Based Prediction
+
+LiST: Lite Prompted Self-training Makes Efficient Few-shot Learners
+
+Exploring the Universal Vulnerability of Prompt-based Learning Paradigm
+
+Prompt Augmented Generative Replay via Supervised Contrastive Learning for Lifelong Intent Detection
+
+RGL: A Simple yet Effective Relation Graph Augmented Prompt-based Tuning Approach for Few-Shot Learning 
+
+On Measuring Social Biases in Prompt-Based Learning
+
+Few-Shot Self-Rationalization with Natural Language Prompts
+
+SEQZERO: Few-shot Compositional Semantic Parsing with Sequential Prompts and Zero-shot Models
+
+PromptGen: Automatically Generate Prompts using Generative Models
+
 #### 2022-04-27
 sigir2022论文
 ##### 检索排序相关
